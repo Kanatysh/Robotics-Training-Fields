@@ -27,7 +27,7 @@ Visit the Releases section to download the latest published version.
 
 ## License and Copyright
 
-© 2026 [Author's Full Name]. All rights reserved.
+© 2026 Kanatysh. All rights reserved.
 
 Free downloading, printing and educational use are permitted under the terms of the author's license.
 
@@ -47,12 +47,12 @@ Always check the latest release for updated materials.
 
 ## Author
 
-Author and Copyright Holder: [Author's Full Name]
+Author and Copyright Holder: Duman Kanatuly Shaker
 
-Official Website: [Website URL]
+Official Website: qangybasik.kz
 
 GitHub: [Repository URL]
 
-Contact: [Email]
+Contact: kanatysh@proton.me
 
-**© 2026 [Author's Full Name]. All rights reserved.**
+**© 2026 Duman Kanatuly Shaker. All rights reserved.**
